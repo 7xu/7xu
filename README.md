@@ -1,4 +1,4 @@
-### Hi there 👋
+<img alt="Visitors counter ↖" src="https://count.getloli.com/get/@7xu?theme=rule34"/>
 
 <!--
 **7xu/7xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
